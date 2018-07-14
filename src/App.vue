@@ -1,5 +1,5 @@
 <template>
-  <div  class="app"id="app clearfix">
+  <div  class="app" id="app clearfix">
 
     <Header></Header>
     <div class="main">
